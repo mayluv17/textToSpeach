@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(20, 20, 35);
+}
+img {
+  width: 64px;
+}
+.form-group {
+  margin-bottom: 20px !important;
+}
